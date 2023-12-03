@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppointmentListComponent {
 
+  name:string = "INES"
+
 }
